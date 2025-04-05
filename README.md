@@ -1,4 +1,4 @@
-# LM5012/LM5013 regulator board made for Sodlr
+# LM5012/LM5013 regulator board made for Sodlr with KiCad
 
 ## Requirements of the board from Soldr
 1. Ideas that are fun and satisfying to build
@@ -22,4 +22,7 @@ The design is made such that different component sizes and soldering gun heat le
 4. Also experience of soldering an exposed pad from the back side for the regulator
 
 ## Documentation
-The design is documented in the schematic. 
+The design is documented in the [schematic](output/schematic.pdf). The gerber files are in the gerber folder. The renders of the board are below.
+![side](output/3D-side.png)
+![top](output/3D-top.png)
+![bottom](output/3D-bottom.png)
