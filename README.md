@@ -12,6 +12,7 @@
   2. 5V output can change also if feedback voltage divider is changed
 2. 2.5A maximum output with LM5012 and 3.5A maximum output with LM5013
 3. Sub 100uA current drawn at no load
+4. BoM and PCB would come to around 2 to 3 USD depending on the chip used and quantity. 
 
 ### Soldering experience
 The design is made such that different component sizes and soldering gun heat levels are utilized.
